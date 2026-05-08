@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🏋️ AI Fitness Tracker
+A smart, AI-powered fitness tracking system that leverages artificial intelligence to provide personalized workout guidance, real-time posture correction, and adaptive fitness plans.
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🎯 Features
+🤖 Personalized Workout Guidance - AI-driven workout recommendations tailored to your fitness level and goals
+📹 Real-Time Posture Correction - Advanced computer vision technology to analyze and correct your form during exercises
+📊 Adaptive Fitness Plans - Machine learning algorithms that adjust your workout plans based on progress and performance
+⌚ Wearable Sensor Integration - Seamless integration with fitness wearables for comprehensive health tracking
+📈 Progress Analytics - Detailed insights into your fitness journey with visual progress tracking
+💡 Smart Recommendations - Intelligent suggestions for exercises, rest periods, and nutrition
+🛠️ Tech Stack
+Frontend: TypeScript, JavaScript, React/Next.js
+Backend: TypeScript-based API
+AI/ML: Computer vision, machine learning models
+Sensors: Wearable sensor integration
+Database: Convex (real-time backend)
+📋 Project Composition
+TypeScript: 74.9%
+JavaScript: 25.1%
+🚀 Getting Started
+Prerequisites
+Node.js 16+
+npm or yarn
+Wearable devices (optional, for full functionality
+Clone the repository:
+git clone https://github.com/uditworks/Ai-Fitness-Tracker.git
+cd Ai-Fitness-Tracker
