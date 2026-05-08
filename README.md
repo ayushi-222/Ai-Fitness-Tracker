@@ -8,6 +8,9 @@ A smart, AI-powered fitness tracking system that leverages artificial intelligen
 ⌚ Wearable Sensor Integration - Seamless integration with fitness wearables for comprehensive health tracking
 📈 Progress Analytics - Detailed insights into your fitness journey with visual progress tracking
 💡 Smart Recommendations - Intelligent suggestions for exercises, rest periods, and nutrition
+
+
+
 🛠️ Tech Stack
 Frontend: TypeScript, JavaScript, React/Next.js
 Backend: TypeScript-based API
@@ -17,11 +20,12 @@ Database: Convex (real-time backend)
 📋 Project Composition
 TypeScript: 74.9%
 JavaScript: 25.1%
+
+
+
 🚀 Getting Started
 Prerequisites
 Node.js 16+
 npm or yarn
 Wearable devices (optional, for full functionality
-Clone the repository:
-git clone https://github.com/uditworks/Ai-Fitness-Tracker.git
 cd Ai-Fitness-Tracker
